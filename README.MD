@@ -43,3 +43,9 @@ Features include location, size, rooms, age, and amenities.
 ---
 
 ## Project Structure
+├── data/
+├── src/
+├── app/
+├── notebooks/
+├── requirements.txt
+└── README.md
