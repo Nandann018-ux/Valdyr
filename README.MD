@@ -1,6 +1,7 @@
 
 # 🏠 Intelligent Property Price Advisory System
 
+**Live Demo:** https://housepredict112.streamlit.app/
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Nandann018-ux/Valdyr/main?labpath=notebooks%2Fdata_exploration.ipynb)
 
 ## Overview
